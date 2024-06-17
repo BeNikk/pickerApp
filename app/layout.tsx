@@ -17,7 +17,7 @@ interface RootLayoutProps {
 
 const RootLayout: React.FC<RootLayoutProps> = ({ children }) => {
   return (
-    <GoogleOAuthProvider clientId="759324330580-t9vol25lj0q6r5vavff2o9vksisesof6.apps.googleusercontent.com">
+    <GoogleOAuthProvider clientId="389015052692-b48k82pdmpjrpva0i0qoq9t9g04f4ene.apps.googleusercontent.com">
       <html lang="en">
         <head>
           <title>picker</title>
